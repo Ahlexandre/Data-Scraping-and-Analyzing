@@ -1,4 +1,4 @@
-Template utilisé pour le projet de programmation POO L2
+<p align = "center">Template utilisé pour le projet de programmation POO L2</p>
 
 <p align = "center">If you reuse this project, could you please let me know via my messages.</p>
 
